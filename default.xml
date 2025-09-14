@@ -129,7 +129,7 @@
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="212e2951a511082035d1d2fe923b4da3183bc5ca"/>
   <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="77e110b93d904a19d9d454c825688cf1706f2392"/>
   <!--<project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="5362a7483929c83d0337b2d5f4ea58b49f915d2c"/>-->
-  <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="5c4d28394a8ad120f84a2cee13fe4dc156601d1c"/>
+  <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="301f068647fb88bc7c7f6e9cc94edf4a54d090b7"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="305382f790cde9afc2876b2e95661d61fe4f02ce"/>
   <!--<project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="c41954eb057be3db4553915c07fe76bb5ed3a05e"/>-->
   <!--<project name="platform/packages/apps/Gallery3D" path="packages/apps/Gallery3D" revision="b9044b4187fe8d9ca01809e2ffd217f15d812d28"/>-->
