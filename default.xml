@@ -144,7 +144,7 @@
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="cc36f33aff32976d4e43cecb2afa4016ec2f4f78"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="c77c764fc678ac4539742046cfeb3c3b58526557"/>
   <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="8762093e0094e09493fa6cbac8e8fbf265f18165"/>
-  <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="ab8a7ebf7c5849327afac9a5190f0c516272cfea"/>
+  <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="332da435cfb3c3f79b14d7ec0d96859871fde54a"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="deba80b465bf8e4bab8ee198949c3e0710f0d144"/>
   <!-- RTM -->
   <project name="platform/packages/apps/Sync" path="packages/apps/Sync" revision="89c1dbd3141a0712fad4967d27956c962adeb84d"/>
