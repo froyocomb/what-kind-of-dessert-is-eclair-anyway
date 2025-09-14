@@ -155,11 +155,11 @@
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="7c0644b20a435feba7ae1c12cb9b0abcba6e5c0a"/>
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="4358e82119396b1bbe8bcd905e52e714ecf2b055"/>
   <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="e5b045de0d72577c347c96d57d1f7460cb2b9613"/>
-  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="b250d29335bae367be26a6f00a04f9e04ff0d135"/>
+  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="24a0b5f0b2a5f5b2d09098cab996f2e362127ec5"/>
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="77d61decd26fda5e2dd1d602adcf6f202e5cfcfb"/>
   <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="3de94af37dda436fcd1809370c66a4934706abe7"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="30dbdee2c2ea9fdb67801a9ecda2a9a45687dd54"/>
-  <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="3429f6c6b4c5d0727e35c38fe60f4ae2416468f2"/>
+  <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="e134a75aa423734d54dab77af3ba1237983187aa"/>
   <project name="platform/packages/providers/GoogleSubscribedFeedsProvider" path="packages/providers/GoogleSubscribedFeedsProvider" revision="8c2671177239947975fec938b31e20b59bbfd02a"/>
   <project name="platform/packages/providers/ImProvider" path="packages/providers/ImProvider" revision="98c94419ccfc6709ff72f2d3b12c154cad147612"/>
   <!--<project name="platform/packages/providers/ManagementProvider" path="packages/providers/ManagementProvider" revision="6162ffa9cad74ad0d2f17ba0cfa27e901cefedc2"/>-->
