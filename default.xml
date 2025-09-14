@@ -122,6 +122,8 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="0fb1ee78fba35cb66cef48960acf4e4b45b6ce71"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="e94a09c8b93088fbbeafa3edc9527cb51be0dc28"/>
   <!--<project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="c19b5fbf869d50b2637e19802ef8bc683dc6e586"/>-->
+  <!-- this wasn't tagged for 2.0 ???? -->
+  <project name="platform/packages/apps/AccountsAndSyncSettings" path="packages/apps/AccountsAndSyncSettings" revision="8c2671177239947975fec938b31e20b59bbfd02a"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="b83db52b375a9a28347cacff3a8e8b1ebabe3b46"/>
   <!--<project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="0756299082f38134b9a9dfae3fd09408bf62e071"/>-->
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="6f480422c930d5a85624f42af8f1ca2c063cb4b5"/>
