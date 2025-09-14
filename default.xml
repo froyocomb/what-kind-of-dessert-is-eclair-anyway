@@ -129,7 +129,7 @@
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="212e2951a511082035d1d2fe923b4da3183bc5ca"/>
   <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="77e110b93d904a19d9d454c825688cf1706f2392"/>
   <!--<project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="5362a7483929c83d0337b2d5f4ea58b49f915d2c"/>-->
-  <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="7272939ef9933311860254dd8fa909b6359a2998"/>
+  <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="5c4d28394a8ad120f84a2cee13fe4dc156601d1c"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="305382f790cde9afc2876b2e95661d61fe4f02ce"/>
   <!--<project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="c41954eb057be3db4553915c07fe76bb5ed3a05e"/>-->
   <!--<project name="platform/packages/apps/Gallery3D" path="packages/apps/Gallery3D" revision="b9044b4187fe8d9ca01809e2ffd217f15d812d28"/>-->
@@ -155,7 +155,7 @@
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="7c0644b20a435feba7ae1c12cb9b0abcba6e5c0a"/>
   <project name="platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="4358e82119396b1bbe8bcd905e52e714ecf2b055"/>
   <project name="platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="e5b045de0d72577c347c96d57d1f7460cb2b9613"/>
-  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="7267f8da4c5300723cfc4746eccc551551e2c363"/>
+  <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="109d3357764048d275d0493b01f2009ef9e82857"/>
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="77d61decd26fda5e2dd1d602adcf6f202e5cfcfb"/>
   <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="3de94af37dda436fcd1809370c66a4934706abe7"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="30dbdee2c2ea9fdb67801a9ecda2a9a45687dd54"/>
