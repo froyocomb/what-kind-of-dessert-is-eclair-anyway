@@ -54,6 +54,7 @@
   <project name="platform/external/fdlibm" path="external/fdlibm" revision="d7bdc088bf2908e894c52630c796642dd93e31d1"/>
   <project name="platform/external/freetype" path="external/freetype" revision="989b6c878d007b154ca92273b4266686f8dbc315"/>
   <!--<project name="platform/external/fsck_msdos" path="external/fsck_msdos" revision="c84da24a7125ab9a8e4372ec0b7928776a5b05e9"/>-->
+  <project name="platform/external/gdata" path="external/gdata" revision="bc844c0a5989abdeea2c411f8d6444c80c44c17f"/>
   <project name="platform/external/genext2fs" path="external/genext2fs" revision="f48557d141eb70455c2ca861bc712424f8c2dc89"/>
   <project name="platform/external/giflib" path="external/giflib" revision="4dc05e614ca67703d49e77a17203bb02d05a045f"/>
   <project name="platform/external/googleclient" path="external/googleclient" revision="9fd4b4016a1c2bc3270721a97d05de8d90bbf4f7"/>
