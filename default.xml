@@ -148,8 +148,8 @@
   <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="8762093e0094e09493fa6cbac8e8fbf265f18165"/>
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="332da435cfb3c3f79b14d7ec0d96859871fde54a"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="deba80b465bf8e4bab8ee198949c3e0710f0d144"/>
-  <!-- NOT RTM! -->
-  <project name="platform/packages/apps/Sync" path="packages/apps/Sync" revision="d8aa470c7fea6a43e269da78e1a2b8c14fb40c70"/>
+  <!-- RTM -->
+  <project name="platform/packages/apps/Sync" path="packages/apps/Sync" revision="89c1dbd3141a0712fad4967d27956c962adeb84d"/>
   <!-- RTM -->
   <project name="platform/packages/apps/Updater" path="packages/apps/Updater" revision="dd4a62dc05094157faebad960aa639fe96852d67"/>
   <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" revision="17651d3569de5b0a379e3daea27ae08a647d6b74"/>
