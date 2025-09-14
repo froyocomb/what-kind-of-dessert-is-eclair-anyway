@@ -141,7 +141,7 @@
   <!--<project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="fbe5a1b0f0fc746b7237f014a365d2bb5d04768f"/>-->
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="d756a17492d468544d5544c61a1a96cc2db9c95b"/>
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="d4c483b4d47e85cd28658e48cb61056da269cc69"/>
-  <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="fe069ea729efec01a8b6f16f9e76a2db4988404a"/>
+  <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="cc36f33aff32976d4e43cecb2afa4016ec2f4f78"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="c77c764fc678ac4539742046cfeb3c3b58526557"/>
   <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="8762093e0094e09493fa6cbac8e8fbf265f18165"/>
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="ab8a7ebf7c5849327afac9a5190f0c516272cfea"/>
