@@ -112,7 +112,7 @@
   <project name="platform/external/zlib" path="external/zlib" revision="27dcdf613ee6ab86375052cf0fb621b6df785b54"/>
   <project name="platform/frameworks/base" path="frameworks/base" revision="a19fd7a0d604900375a38601821f8c2984e0eced"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="66667e4b38ed7706faebfbcfa5a4c15b677d6c74"/>
-  <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="fa5f65b43467226982b1f3208b437454a60a5565"/>
+  <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="189f3504b4f671c9b8697b991ba7241aaaf2062a"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="311469f6c65ac6dabfc4f848678dda776f46855b"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="e7968b27093a8a5973aa1f21f436d539b232bbe6"/>
   <!--<project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="9cd3d5ea6c0263040eba3361c39d50b8fdb78605"/>-->
