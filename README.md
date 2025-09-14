@@ -1,4 +1,4 @@
-cupcake-den: Cupcake Restoration Project 
+what-kind-of-dessert-is-eclair-anyway: Eclair Restoration Project 
 ===========================================
 
 This repository contains reconstructed `repo` manifests of known notable builds of Android 2.0-2.1 ("Eclair") builds.
