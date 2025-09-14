@@ -17,10 +17,10 @@
   <!-- RTM -->
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8c3bbe179741dd58175c482e221849ea91c75543"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="985d95f9f45baeb5f013fde9575acc8a81746bcb"/>
-  <project name="platform/build" path="build" revision="ab1e594c5d5cf65db54ad3c19d0abc1a99d4071e">
+  <project name="froyocomb/platform_build" path="build" remote="github" revision="eclair-May13-fix">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="192d1cc5ea71de43672efaf49214cf38e355292f"/>
+  <project name="froyocomb/platform_dalvik" path="dalvik" remote="github" revision="eclair-May13-fix"/>
   <project name="platform/development" path="development" revision="447ad5d43f319c98d88a76f6370a0b0ba00c9e11"/>
   <project name="platform/external/aes" path="external/aes" revision="921c2bae3857b24f85576e1102e97e9500b1dbd8"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="d6adcaba22d4f48b448b7227625041be62ebae36"/>
